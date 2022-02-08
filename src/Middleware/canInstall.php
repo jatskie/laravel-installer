@@ -1,13 +1,13 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Middleware;
+namespace IgniteCareers\LaravelInstaller\Middleware;
 
 use Closure;
 use DB;
 
 /**
  * Class canInstall
- * @package Ignite\LaravelInstaller\Middleware
+ * @package IgniteCareers\LaravelInstaller\Middleware
  */
 
 class canInstall

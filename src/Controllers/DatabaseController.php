@@ -1,9 +1,9 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Controllers;
+namespace IgniteCareers\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use Ignite\LaravelInstaller\Helpers\DatabaseManager;
+use IgniteCareers\LaravelInstaller\Helpers\DatabaseManager;
 
 class DatabaseController extends Controller
 {

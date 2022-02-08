@@ -1,10 +1,10 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Providers;
+namespace IgniteCareers\LaravelInstaller\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
-use Ignite\LaravelInstaller\Middleware\canInstall;
+use IgniteCareers\LaravelInstaller\Middleware\canInstall;
 
 class LaravelInstallerServiceProvider extends ServiceProvider
 {

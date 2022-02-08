@@ -1,10 +1,10 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Controllers;
+namespace IgniteCareers\LaravelInstaller\Controllers;
 
 use App\Http\Requests;
 use Illuminate\Routing\Controller;
-use Ignite\LaravelInstaller\Helpers\PermissionsChecker;
+use IgniteCareers\LaravelInstaller\Helpers\PermissionsChecker;
 
 class PermissionsController extends Controller
 {

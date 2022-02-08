@@ -1,11 +1,11 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Helpers;
+namespace IgniteCareers\LaravelInstaller\Helpers;
 use Illuminate\Support\Facades\DB;
 
 /**
  * Class MigrationsHelper
- * @package Ignite\LaravelInstaller\Helpers
+ * @package IgniteCareers\LaravelInstaller\Helpers
  */
 
 trait MigrationsHelper

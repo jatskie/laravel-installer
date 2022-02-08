@@ -1,6 +1,6 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Helpers;
+namespace IgniteCareers\LaravelInstaller\Helpers;
 
 use Exception;
 use Illuminate\Http\Request;

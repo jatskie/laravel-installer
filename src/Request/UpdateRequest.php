@@ -1,6 +1,6 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Request;
+namespace IgniteCareers\LaravelInstaller\Request;
 
 
 

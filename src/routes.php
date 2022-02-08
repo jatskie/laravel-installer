@@ -1,6 +1,6 @@
 <?php
     include 'functions.php';
-Route::group(['prefix' => 'install', 'as' => 'LaravelInstaller::', 'namespace' => 'Ignite\LaravelInstaller\Controllers', 'middleware' => ['web', 'install']], function()
+Route::group(['prefix' => 'install', 'as' => 'LaravelInstaller::', 'namespace' => 'IgniteCareers\LaravelInstaller\Controllers', 'middleware' => ['web', 'install']], function()
 {
     Route::get('/', [
             'as' => 'welcome',

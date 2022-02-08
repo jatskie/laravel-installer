@@ -1,6 +1,6 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Controllers;
+namespace IgniteCareers\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
 

@@ -1,10 +1,10 @@
 <?php
 
-    namespace Ignite\LaravelInstaller\Middleware;
+    namespace IgniteCareers\LaravelInstaller\Middleware;
 
     use Closure;
-    use Ignite\LaravelInstaller\Helpers\MigrationsHelper;
-    use Ignite\LaravelInstaller\Middleware\canInstall;
+    use IgniteCareers\LaravelInstaller\Helpers\MigrationsHelper;
+    use IgniteCareers\LaravelInstaller\Middleware\canInstall;
 
     class canUpdate
     {

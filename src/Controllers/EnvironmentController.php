@@ -1,14 +1,14 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Controllers;
+namespace IgniteCareers\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use Ignite\LaravelInstaller\Helpers\EnvironmentManager;
-use Ignite\LaravelInstaller\Request\UpdateRequest;
+use IgniteCareers\LaravelInstaller\Helpers\EnvironmentManager;
+use IgniteCareers\LaravelInstaller\Request\UpdateRequest;
 
 /**
  * Class EnvironmentController
- * @package Ignite\LaravelInstaller\Controllers
+ * @package IgniteCareers\LaravelInstaller\Controllers
  */
 class EnvironmentController extends Controller
 {

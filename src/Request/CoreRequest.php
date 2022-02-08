@@ -1,8 +1,8 @@
 <?php
 
-    namespace Ignite\LaravelInstaller\Request;
+    namespace IgniteCareers\LaravelInstaller\Request;
 
-use Ignite\LaravelInstaller\Helpers\Reply;
+use IgniteCareers\LaravelInstaller\Helpers\Reply;
 use Illuminate\Foundation\Http\FormRequest;
 
 

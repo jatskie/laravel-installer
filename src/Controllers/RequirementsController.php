@@ -1,9 +1,9 @@
 <?php
 
-namespace Ignite\LaravelInstaller\Controllers;
+namespace IgniteCareers\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use Ignite\LaravelInstaller\Helpers\RequirementsChecker;
+use IgniteCareers\LaravelInstaller\Helpers\RequirementsChecker;
 
 class RequirementsController extends Controller
 {

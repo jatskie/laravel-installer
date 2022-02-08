@@ -1,0 +1,23 @@
+{
+    "name": "ignitecareers/laravel-installer",
+    "description": "Laravel web installer",
+    "license": "MIT",
+    "type": "library",
+  
+    "authors": [
+      {
+        "name": "Jat Macalalad",
+        "email": "jat@ignitecareers.ph"
+      }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "IgniteCareers\\LaravelInstaller\\": "src/"
+      },
+      "files": [
+        "src/functions.php"
+      ]
+    },
+    "minimum-stability": "dev"
+  }
